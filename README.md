@@ -1,34 +1,61 @@
-# 👋 About Me
+# Hi, I'm Armen 👋
 
-```
- 
-<?php
-echo "Hello World from Armen Hovasapyan";
-?>
- 
-```
+Lead Software Engineer focused on building scalable, reliable, and maintainable software systems.
 
-I'm a **Senior PHP Developer** focused on building **scalable, maintainable, and production-ready systems** with clean architecture and robust design patterns.
+My primary expertise is backend engineering, distributed systems, software architecture, and technical leadership. Recently, I've been expanding my expertise into the .NET ecosystem while integrating modern AI technologies into backend applications and engineering workflows.
 
-Currently working on **backend services, microservice architectures, and event-driven systems**, designing reliable APIs for real-world applications.
+---
 
-## 🛠 Tech Stack
-**Languages & Frameworks:** PHP, Symfony, Laravel, Yii, CodeIgniter / Node.js, Express, NestJS / Python  
-**Databases:** PostgreSQL, MySQL, MongoDB, SQLite  
-**Caching & Messaging:** Redis, RabbitMQ  
-**DevOps & Infrastructure:** Docker, Docker Compose  
-**Architecture:** REST APIs, Microservices, Event-Driven Systems, Clean Architecture  
-**Monitoring & Observability:** Datadog  
+## 🚀 Core Expertise
 
-## 🌱 Currently Learning
-Advanced PHP internals, scalable microservices, high-performance backend architecture, and **Python (FastAPI, Flask)** for backend services and automation
+- Backend Architecture
+- Distributed Systems
+- Event-Driven Systems
+- API Design
+- Microservices
+- Technical Leadership
+- AI Integration & Automation
 
-## 💬 Ask me about
-- PHP & Backend architecture  
-- Microservices & Event-driven systems  
-- PostgreSQL, MongoDB, Redis, RabbitMQ  
-- API design, performance optimization, and system reliability  
+---
 
-## ⚡ Fun fact
-I started as a **PHP developer** and now focus on **designing scalable backend systems** with production-ready architecture 🚀
+## 💻 Tech Stack
 
+### Languages
+
+PHP • JavaScript • TypeScript • Python • C#
+
+### Frontend
+React • TypeScript
+
+### Backend Frameworks
+
+Symfony • Laravel • Yii • NestJS • FastAPI • Falcon • ASP.NET Core
+
+### Databases
+
+PostgreSQL • MySQL • MongoDB • Firebase
+
+### Messaging
+
+RabbitMQ • Kafka • Redis
+
+### Cloud
+
+AWS • GCP
+
+### DevOps
+
+Docker • Kubernetes • GitHub Actions • CI/CD
+
+### Monitoring
+
+Datadog • ELK
+
+---
+
+## 🎯 Current Focus
+
+- Expanding into the .NET ecosystem with C# and ASP.NET Core
+- Continuing to build scalable backend services using PHP, Node.js, and Python (FastAPI, Falcon)
+- Exploring AI integrations with OpenAI API, Google Gemini, n8n AI Agents, and Model Context Protocol (MCP)
+- Leveraging AI-assisted development tools such as Cursor, Codex, Claude Code, and other AI coding assistants to improve engineering productivity, code quality, and delivery speed
